@@ -24,7 +24,7 @@ The [IMDB dataset](https://ai.stanford.edu/~amaas/data/sentiment/) contains 50,0
 
 ## Code
 
-The `main.py` file contains the code for preprocessing the data, feature extraction, training the Naive Bayes model, and evaluating the performance. The `utils.py` file contains utility functions used in the main code.
+The `SentimentAnalysisOfIMDBmovieReviews.ipynb` file contains the code for preprocessing the data, feature extraction, training the Naive Bayes model, and evaluating the performance.
 
 To run the code, follow these steps:
 
@@ -54,8 +54,6 @@ The performance of the model is as follows:
 
 - Accuracy: 85.54%
 - Precision: 86.35%
-- Recall: 84.65%
-- F1-score: 85.49%
 
 These results show that the Naive Bayes algorithm is effective in predicting the sentiment of movie reviews.
 
